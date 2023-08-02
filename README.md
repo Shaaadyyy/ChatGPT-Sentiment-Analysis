@@ -17,6 +17,3 @@ Steps to build a classifier using word embedding, CNN and LSTM:-
 **CNN Sentiment Analysis**
 ![CNN](../master/images/cnn-result-test.png)
 
-
-**LSTM Sentiment Analysis**
-![LSTM](../master/images/lstm-result-test.png)
