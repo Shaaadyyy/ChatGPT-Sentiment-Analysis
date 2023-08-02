@@ -15,5 +15,7 @@ Steps to build a classifier using word embedding, CNN and LSTM:-
 * build, compile and run two models. First model is CNN model and the second one is LSTM model.
 
 **CNN Sentiment Analysis**
+
+
 ![CNN](../master/images/cnn-result-test.png)
 
