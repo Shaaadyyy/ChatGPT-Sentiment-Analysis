@@ -13,4 +13,6 @@ Steps to build a classifier using word embedding, CNN and LSTM:-
 * the words in the dataset that don't exist in Glove's dictionary will get a zeroes vector these words already have id 0 so there zeros embedding ector will be at index zero in the new matrix.
 * responsible of converting a paded sequence of words IDs to a sequence of words embeddings.
 * build, compile and run two models. First model is CNN model and the second one is LSTM model.
+
+![CNN](../master/images/cnn-result-test.png)
    
