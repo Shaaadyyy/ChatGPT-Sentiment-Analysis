@@ -14,7 +14,7 @@ Steps to build a classifier using word embedding, CNN and LSTM:-
 * responsible of converting a paded sequence of words IDs to a sequence of words embeddings.
 * build, compile and run two models. First model is CNN model and the second one is LSTM model.
 
-**CNN Sentiment Analysis**
+**CNN sentiment analysis result**
 
 
 ![CNN](../master/images/cnn-result-test.png)
